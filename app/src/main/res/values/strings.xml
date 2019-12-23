@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Streeksha</string>
+    <string name="quote">\u0022Women are not the powerless \nbut they are the \nvery source of the power, SHAKTI\u0022</string>
+    <string name="title_activity_live_location">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
